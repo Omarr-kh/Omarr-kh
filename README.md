@@ -6,7 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Omar%F0%9F%91%8B" alt="Typing SVG" /></a>
   </h1>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="dawidolko" /> </p>
 
 <p align="center">
 I am a computer science student with a passion for technology, programming, Data Science and Machine Learning. 🧠 
@@ -33,35 +32,27 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 ## **My profile stats here:**
 
 <div align="center">
-  <a href="https://github.com/Omarr-kh
-">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omarr-kh
-&theme=slateorange" />
+  <a href="https://github.com/Omarr-kh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omarr-kh&theme=slateorange" />
   </a>
   
   </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarr-kh
-&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarr-kh&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 
 <div align="center">
-  <a href="https://github.com/Omarr-kh
-">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarr-kh
-&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  <a href="https://github.com/Omarr-kh">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarr-kh&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
   
 <div align="center">
-  <a href="https://github.com/Omarr-kh
-">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omarr-kh
-&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omarr-kh
-&theme=slateorange" />
+  <a href="https://github.com/Omarr-kh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omarr-kh&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omarr-kh&theme=slateorange" />
   </a>
 </div>
 
@@ -69,8 +60,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-    <img src="https://count.getloli.com/get/@Omarr-kh
-.github.readme" width="200"/>
+    <img src="https://count.getloli.com/get/@Omarr-kh.github.readme" width="200"/>
   </p>
 </div>
 
@@ -82,8 +72,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/Omarr-kh
-">
+  <a href="https://github.com/Omarr-kh">
     <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
 </p>
@@ -91,8 +80,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/Omarr-kh
-?tab=repositories">
+  <a href="https://github.com/Omarr-kh?tab=repositories">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js" />
   </a>
 </p>
