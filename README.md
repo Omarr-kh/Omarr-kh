@@ -8,22 +8,9 @@
 </div>
 
 <p align="center">
-I am a computer science student with a passion for technology, programming, Data Science and Machine Learning. 🧠 
-</p>
-<p align="center">
-I am always eagr to learn new technologies and strive to explore the latest trends and tools that help me create innovative solutions. 💻
-</p>
-<p align="center">
-I believe that the future of technology lies in the hands of AI, and Machine Learning, and I am excited to be a part of that future.
-</p>
-<p align="center">
-On my GitHub, you will find various projects related to programming that showcase my growth and learning in these areas. 
-</p>
-<p align="center">
-With each project, I aim to learn something new and enhance my skills.
-</p>
-<p align="center">
-Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
+I am a senior-year Computer Science student at Cairo University with a passion for continuously learning across different fields of Computer Science. While I have extensive experience in backend development, I'm always eager to explore other areas like Data Science.
+
+I am insatiably curious about new concepts and technologies in the field. My goal is to develop comprehensive expertise across multiple domains including AI, Machine Learning, Data Science, Data Analysis, and DevOps. I aspire to be a well-rounded software engineer with a diverse technical toolkit.
 </p>
 <p align="center">
 Thank you for visiting my profile. I'm glad you're here! 🎉
