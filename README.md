@@ -8,7 +8,7 @@
 </div>
 
 <p>
-I am a senior-year Computer Science student at Cairo University with a passion for continuously learning across different fields of Computer Science. While I have extensive experience in backend development, I'm always eager to explore other areas like Data Science.
+I am a Software Engineer with a passion for continuously learning across different fields of Computer Science. While I have extensive experience in backend development, I'm always eager to explore other areas like Data Science.
 
 I am insatiably curious about new concepts and technologies in the field. My goal is to develop comprehensive expertise across multiple domains including AI, Machine Learning, Data Science, Data Analysis, and DevOps. I aspire to be a well-rounded software engineer with a diverse technical toolkit.
 </p>
